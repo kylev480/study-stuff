@@ -1,6 +1,7 @@
 <details>
   <summary>Unit 1 - Kinematics</summary>
-  This is the basic forces stuff
+  Displacement is how far an object is from its starting point.
+  
   </details>
   
 <details>
